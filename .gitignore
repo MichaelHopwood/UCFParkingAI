@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+secrets.py
+parking.ucf.edu_cookies.txt
+*.csv
+figs/
+
 # C extensions
 *.so
 

@@ -23,6 +23,9 @@ def get_data():
             formatted_data.append(formatted_dict)
     return pd.DataFrame(formatted_data)
 
+
 if __name__ == "__main__":
     df = get_data()
     print(df)
+
+    #get_citation_data()
